@@ -18,6 +18,10 @@ Features
 
 [http://market.trader249.com:3000/login](http://market.trader249.com:3000/login)
 
+Screenshot
+
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
 ### Username : demo_user
 
 ### Password : demo
